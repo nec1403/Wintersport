@@ -1,0 +1,43 @@
+body
+  { margin:0;
+    padding:0;
+    font-family: Helvetica, Arial, Geneva, sans-serif;}
+
+#map
+  { position:absolute;
+    top:0;
+    bottom:0;
+    width:100%; }
+
+.infobox {
+    width: 240px;
+
+    height: 500px;
+
+    position: absolute;
+    top: 70px;
+    right: 10px;
+    border-radius: 6px;
+    box-shadow: 25px 25px 25px 0 rgba(0,0,0,0.15);
+    background: white;
+              /* System sans-serif fonts */
+    font-size: 12px;
+    line-height: 20px;
+    color: #273d56; /* gray-dark */ }
+
+.infobox-text {
+    margin-right: 80px;
+    padding: 20px; }
+
+.infobox-heading {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: bold; }
+
+.infobox-mapbox {
+    background: #f4f7fb; /* gray-faint */
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    right: 0; }

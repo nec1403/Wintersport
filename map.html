@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <meta charset='utf-8' />
+    <title>Wintersportkarte</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css' rel='stylesheet' />
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.min.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.css' type='text/css' />
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+  </head>
+
+  <body>
+
+    <div id='map'></div>
+
+    <div class='infobox'>
+
+       <div class='infobox-text'>
+           <div id="style-name" class='infobox-heading'>Meiringen</div>
+           <div>Zürii</div>
+       </div>
+   </div>
+
+    <script>
+
+      mapboxgl.accessToken = 'CIA';
+      var map = new mapboxgl.Map({
+        container: 'map', // container id
+        center: [8.23688, 46.74957], // starting position [lng, lat]
+        zoom: 13, // starting zoom
+
+        style: 'mapbox://styles/henrymooncarto/cjqxscxnx0u0o2smlv6gy1dgt', // stylesheet location
+
+      });
+
+      // Add zoom and rotation controls to the map.
+      var nav = new mapboxgl.NavigationControl();
+      map.addControl(nav, 'top-left');
+
+      map.addControl(new MapboxGeocoder({
+        accessToken: mapboxgl.accessToken
+      }));
+
+    </script>
+
+  </body>
+
+</html>
