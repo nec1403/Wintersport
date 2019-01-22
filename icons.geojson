@@ -69,13 +69,104 @@
         {
             "geometry": {
                 "type": "Point",
+                "coordinates": [8.20102,	46.73071]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Gondel",
+                "description": "Luftseilbahn Meiringen-Reuti",
+                "title": "Luftseilbahn Meiringen-Reuti",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.20324, 46.74948]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Gondeli",
+                "description": "Gondelbahn Twing-Lischen-Käserstatt",
+                "title": "Gondelbahn Twing-Lischen-Käserstatt",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.214958, 46.73942]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Gondeli",
+                "description": "Gondelbahn Reuti-Bidmi",
+                "title": "Gondelbahn Reuti-Bidmi",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.22886, 46.74701]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Gondeli",
+                "description": "Gondelbahn Bidmi-Mägisalp",
+                "title": "Gondelbahn Bidmi-Mägisalp",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.24732,	46.74347]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Gondeli",
+                "description": "Gondelbahn Mägisalp-Alpentower",
+                "title": "Gondelbahn Mägisalp-Alpentower",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.22804, 46.75951]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Sessel",
+                "description": "Sesselbahn Käserstatt-Hochsträss",
+                "title": "Sesselbahn Käserstatt-Hochsträss",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.22213, 46.74911]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Sessel",
+                "description": "Sesselbahn Bidmi-Käserstatt",
+                "title": "Sesselbahn Bidmi-Käserstatt",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
                 "coordinates": [8.24730, 46.75314]
             },
             "type": "Feature",
             "properties": {
                 "class": "Sessel",
-                "description": "Sessellift Glogghüs I",
-                "title": "Sessellift Glogghüs I",
+                "description": "Sesselbahn Mägisalp-Hääggen",
+                "title": "Sesselbahn Mägisalp-Hääggen",
                 "text": "bla bla",
             }
         },
@@ -87,8 +178,8 @@
             "type": "Feature",
             "properties": {
                 "class": "Sessel",
-                "description": "Sessellift Glogghüs II",
-                "title": "Sessellift Glogghüs II",
+                "description": "Sesselbahn Hääggen-Glogghüs",
+                "title": "Sesselbahn Hääggen-Glogghüs",
                 "text": "bla bla",
             }
         },
