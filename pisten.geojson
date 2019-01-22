@@ -277,7 +277,7 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [8.180900, 46.784501]
+                "coordinates": [8.180900, 46.784001]
             },
             "type": "Feature",
             "properties": {
