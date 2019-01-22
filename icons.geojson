@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+          "geometry": {
+              "type": "Point",
+              "coordinates": [8.22484, 46.74419]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Wintersportgebiet",
+                "description": "Meiringen-Hasliberg",
+                "title": "Meiringen-Hasliberg",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.20990, 46.75933]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Buegel",
+                "description": "Bügellift Balisalp - Käserstatt",
+                "title": "Bügellift Balisalp - Käserstatt",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.21988, 46.75978]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Buegel",
+                "description": "Bügellift Käserstatt - Hohbiel",
+                "title": "Bügellift Käserstatt - Hohbiel",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.23016, 46.74557]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Buegel",
+                "description": "Bügellift Spycher",
+                "title": "Bügellift Spycher",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.25619, 46.74432]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Buegel",
+                "description": "Bügellift Tschuggi",
+                "title": "Bügellift Tschuggi",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.24730, 46.75314]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Sessel",
+                "description": "Sessellift Glogghüs I",
+                "title": "Sessellift Glogghüs I",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.25640, 46.76014]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Sessel",
+                "description": "Sessellift Glogghüs II",
+                "title": "Sessellift Glogghüs II",
+                "text": "bla bla",
+            }
+        },
+    ]
+}
