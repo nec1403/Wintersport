@@ -183,5 +183,109 @@
                 "text": "bla bla",
             }
         },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.21920, 46.74467]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Skischule",
+                "description": "Schweizer Skischule und Skihäsliland",
+                "title": "Schweizer Skischule und Skihäsliland",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.18581, 46.72724]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Parkplatz",
+                "description": "Parkplatz Bahnhof Meiringen",
+                "title": "Parkplatz Bahnhof Meiringen",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.19192, 46.72629]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Parkplatz",
+                "description": "Parkplatz Bergbahnen Meiringen-Hasliberg",
+                "title": "Parkplatz Bergbahnen Meiringen-Hasliberg",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.19081, 46.72382]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Parkplatz",
+                "description": "Parkplatz Schwimmbad",
+                "title": "Parkplatz Bergbahn Schwimmbad",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.19515, 46.74555]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Parkplatz",
+                "description": "Parkplatz Hasliberg Twing I",
+                "title": "Parkplatz Hasliberg Twing I",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.19518, 46.74502]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Parkplatz",
+                "description": "Parkplatz Hasliberg Twing II",
+                "title": "Parkplatz Hasliberg Twing II",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.20874, 46.73341]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Parkplatz",
+                "description": "Parkplatz Hasliberg Reuti I",
+                "title": "Parkplatz Hasliberg Reuti I",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.20738, 46.73423]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Parkplatz",
+                "description": "Parkplatz Hasliberg Reuti II",
+                "title": "Parkplatz Hasliberg Reuti II",
+                "text": "bla bla",
+            }
+        },
     ]
 }
