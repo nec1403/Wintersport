@@ -199,6 +199,19 @@
         {
             "geometry": {
                 "type": "Point",
+                "coordinates": [8.213694, 46.744618]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Langlauf",
+                "description": "Langlaufloipe",
+                "title": "Langlaufloipe",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
                 "coordinates": [8.18581, 46.72724]
             },
             "type": "Feature",
@@ -284,6 +297,162 @@
                 "class": "Parkplatz",
                 "description": "Parkplatz Hasliberg Reuti II",
                 "title": "Parkplatz Hasliberg Reuti II",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.25703, 46.73762]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Panoramarestaurant Alpen tower",
+                "title": "Panoramarestaurant Alpen tower",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.23697, 46.74916]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Bergrestaurant Mägisalp",
+                "title": "Bergrestaurant Mägisalp",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.21913, 46.74536]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Familienrestaurant Bidmi",
+                "title": "Familienrestaurant Bidmi",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.21841, 46.75770]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Bergrestaurant Käserstatt",
+                "title": "Bergrestaurant Käserstatt",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.20995, 46.73276]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Hotel Reuti",
+                "title": "Hotel Reuti",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.202793, 46.760571]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Alprestauraurant Balis",
+                "title": "Alprestauraurant Balis",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.21982, 46.74406]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Bärgbeizli Bidmi",
+                "title": "Bärgbeizli Bidmi",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.25369, 46.75598]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Hääggenstubeli",
+                "title": "Hääggenstubeli",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.23716, 46.74964]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Kuhstallbar Mägisalp",
+                "title": "Kuhstallbar Mägisalp",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.21896, 46.75737]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Aquarium Skibar Käserstatt",
+                "title": "Aquarium Skibar Käserstatt",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.21871, 46.74392]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Häxächessel Bidmi",
+                "title": "Häxächessel Bidmi",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.228046, 46.737435]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "Restaurant",
+                "description": "Alphittli Gummenalp",
+                "title": "Alphittli Gummenalp",
                 "text": "bla bla",
             }
         },
