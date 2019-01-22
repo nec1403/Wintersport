@@ -1,0 +1,330 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+          "geometry": {
+              "type": "Point",
+              "coordinates": [8.201085, 46.755069]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "blau1",
+                "description": "Lischen",
+                "title": "Lischen",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.205008, 46.760439]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "blau2",
+                "description": "Balisalp",
+                "title": "Balisalp",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.214133, 46.760808]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot3",
+                "description": "Feldmoos",
+                "title": "Feldmoos",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.215917, 46.755895]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot4",
+                "description": "Aelpeli",
+                "title": "Aelpeli",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.210437, 46.751623]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot4",
+                "description": "Aelpeli",
+                "title": "Aelpeli",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.216629, 46.750157]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot5",
+                "description": "Bidmi",
+                "title": "Bidmi",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.216629, 46.750551]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "blau6",
+                "description": "Leiti",
+                "title": "Leiti",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.223488, 46.760748]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot7",
+                "description": "Wurf",
+                "title": "Wurf",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.230007, 46.759439]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot8",
+                "description": "Hochsträss",
+                "title": "Hochsträss",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.241692, 46.765037]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot9",
+                "description": "Fulenberg",
+                "title": "Fulenberg",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.240710, 46.759545]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "schwarz10",
+                "description": "Ringture",
+                "title": "Ringture",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.251273, 46.761691]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "schwarz11",
+                "description": "Glogghüs",
+                "title": "Glogghüs",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.244020, 46.754180]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot12",
+                "description": "Lubrizen",
+                "title": "Lubrizen",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.248233, 46.753326]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "blau13",
+                "description": "Fleschbielen",
+                "title": "Fleschbielen",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.227692, 46.744936]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "blau14",
+                "description": "Neuenhag",
+                "title": "Neuenhag",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.259524, 46.740181]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot15",
+                "description": "Tschuggi",
+                "title": "Tschuggi",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.255023, 46.745108]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot15",
+                "description": "Tschuggi",
+                "title": "Tschuggi",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.252367, 46.743569]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot16",
+                "description": "Skirennzentrum",
+                "title": "Skirennzentrum",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.251643, 46.740756]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "schwarz17",
+                "description": "Nordpol",
+                "title": "Nordpol",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.249363, 46.738380]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot18",
+                "description": "Fis",
+                "title": "Fis",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.248276, 46.736369]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot19",
+                "description": "Sunshine",
+                "title": "Sunshine",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.180900, 46.784501]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "rot20",
+                "description": "Hohfluh",
+                "title": "Hohfluh",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.199614, 46.748651]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "blau21",
+                "description": "Twing",
+                "title": "Twing",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.200729, 46.745296]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "blau22",
+                "description": "Wasserwendi",
+                "title": "Wasserwendi",
+                "text": "bla bla",
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.213881, 46.7386414]
+            },
+            "type": "Feature",
+            "properties": {
+                "class": "blau23",
+                "description": "Reuti",
+                "title": "Reuti",
+                "text": "bla bla",
+            }
+        },
+    ]
+}
