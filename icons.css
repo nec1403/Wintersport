@@ -1,5 +1,5 @@
 .Wintersportgebiet {
-  background-image: url(icons/Wintersportgebiet2.png);
+  background-image: url("icons/Wintersportgebiet2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -7,7 +7,7 @@
 }
 
 .Buegel {
-  background-image: url(icons/Buegellift2.png);
+  background-image: url("icons/Buegellift2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -15,7 +15,7 @@
 }
 
 .Gondel {
-  background-image: url(icons/Gondel2.png);
+  background-image: url("icons/Gondel2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -23,7 +23,7 @@
 }
 
 .Gondeli {
-  background-image: url(icons/Gondeli2.png);
+  background-image: url("icons/Gondeli2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -31,7 +31,7 @@
 }
 
 .Schlepplift {
-  background-image: url(icons/Schlepplift2.png);
+  background-image: url("icons/Schlepplift2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -39,7 +39,7 @@
 }
 
 .Sessel {
-  background-image: url(icons/Sessel2.png);
+  background-image: url("icons/Sessel2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -47,7 +47,7 @@
 }
 
 .Langlauf {
-  background-image: url(icons/Langlauf2.png);
+  background-image: url("icons/Langlauf2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -55,7 +55,7 @@
 }
 
 .Schlitten {
-  background-image: url(icons/Schlitten2.png);
+  background-image: url("icons/Schlitten2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -63,7 +63,7 @@
 }
 
 .Skischule {
-  background-image: url(icons/Skischule2.png);
+  background-image: url("icons/Skischule2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -71,7 +71,7 @@
 }
 
 .Webcam {
-  background-image: url(icons/Webcam2.png);
+  background-image: url("icons/Webcam2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -79,7 +79,7 @@
 }
 
 .Parkplatz {
-  background-image: url(icons/Parkplatz2.png);
+  background-image: url("icons/Parkplatz2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -87,7 +87,7 @@
 }
 
 .Restaurant {
-  background-image: url(icons/Restaurant2.png);
+  background-image: url("icons/Restaurant2.png");
   background-size: cover;
   width: 48px;
   height: 48px;
