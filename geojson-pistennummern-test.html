@@ -15,7 +15,7 @@
 
 <div id='map'></div>
 <script>
-mapboxgl.accessToken = 'pk.eyJ1IjoiZGF2aWQtdiIsImEiOiJjaWY2ZnFnZ2EwMDU2dDJrcDNkeWQ3dDF6In0.7suTsHFS3lSy9uqYranJvw';
+mapboxgl.accessToken = 'your key';
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v9',
@@ -36,9 +36,9 @@ map.addSource('myid', {
         "source": "myid",
         "paint": {
             "circle-radius": 14,
-            "circle-color": "#B42222" //Farbe allenfalls auch als zus‰tzliches properties 'farbe'
+            "circle-color": "#B42222" //Farbe allenfalls auch als zus√§tzliches properties 'farbe'
         },
-        "filter": ["==", "class", "Buegel"], //Filter soll Pistennummer und da sollte es ein zus‰tzliches properties 'pistennummer' haben
+        "filter": ["==", "class", "Buegel"], //Filter soll Pistennummer und da sollte es ein zus√§tzliches properties 'pistennummer' haben
     });
 
 
@@ -56,7 +56,7 @@ map.addSource('myid', {
         "paint": {
             "text-color": "#FFFFFF"
         },
-        "filter": ["==", "class", "Buegel"], //Filter soll Pistennummer und da sollte es ein zus‰tzliches properties 'pistennummer' haben
+        "filter": ["==", "class", "Buegel"], //Filter soll Pistennummer und da sollte es ein zus√§tzliches properties 'pistennummer' haben
     });
 
 });
