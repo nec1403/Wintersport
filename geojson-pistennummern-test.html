@@ -27,36 +27,38 @@ map.on('load', function () {
 
 map.addSource('myid', {
     type: 'geojson',
-    data: 'https://raw.githubusercontent.com/nec1403/Wintersport/master/icons.geojson'
+    data: 'https://raw.githubusercontent.com/nec1403/Wintersport/master/pisten.geojson'
 });
-
     map.addLayer({
         "id": "points",
         "type": "circle",
         "source": "myid",
         "paint": {
             "circle-radius": 14,
-            "circle-color": "#B42222" //Farbe allenfalls auch als zusätzliches properties 'farbe'
-        },
-        "filter": ["==", "class", "Buegel"], //Filter soll Pistennummer und da sollte es ein zusätzliches properties 'pistennummer' haben
+            "circle-color": [
+            'match',
+            ['get', 'colour'],
+            '#3764ad', '#3764ad',
+            '#ec2727', '#ec2727',
+            '#483e37', '#483e37',
+            /* other */ '#ccc'
+
+            ]
+        }
     });
-
-
     map.addLayer({
         id: "points-nr",
         type: "symbol",
         source: "myid",
-        filter: ["has", "point_count"],
         layout: {
-            "text-field": "28",
+            "text-field": "{number}",
             "text-font": ["Lato Black"],
             "text-size": 12,
             "text-allow-overlap": true //kann man auch weglassen
         },
         "paint": {
             "text-color": "#FFFFFF"
-        },
-        "filter": ["==", "class", "Buegel"], //Filter soll Pistennummer und da sollte es ein zusätzliches properties 'pistennummer' haben
+        }
     });
 
 });
