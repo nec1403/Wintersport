@@ -54,20 +54,30 @@
                 "source": "icons",
                 "layout": {
                     "icon-image": "{class}"
-                }
+                },
+                "filter": ["!=", "class", "Wintersportgebiet"],
+                minzoom: 13
             });
-
+            map.addLayer({
+                "id": "areas",
+                "type": "symbol",
+                "source": "icons",
+                "layout": {
+                    "icon-image": "{class}"
+                },
+                "filter": ["==", "class", "Wintersportgebiet"],
+                maxzoom: 13
+            });
             map.addSource('piste', {
                 type: 'geojson',
                 data: 'https://raw.githubusercontent.com/nec1403/Wintersport/master/pisten.geojson'
             });
-
         map.addLayer({
             "id": "pists",
             "type": "circle",
             "source": "piste",
             "paint": {
-                "circle-radius": 13,
+                'circle-radius': 13,
                 "circle-color": [
                   'match',
                   ['get', 'colour'],
@@ -76,7 +86,8 @@
                   '#483e37', '#483e37',
                   /* other */ '#ccc'
                   ]
-            }
+            },
+            minzoom: 13
         });
         map.addLayer({
             id: "points-nr",
@@ -90,7 +101,8 @@
             },
             "paint": {
                 "text-color": "#FFFFFF"
-            }
+            },
+            minzoom: 13
         });
 
 
