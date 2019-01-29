@@ -13,7 +13,7 @@
                 "title": "Lischen",
                 "text": "bla bla",
                 "number": "1",
-                "colour": "3764adff"
+                "colour": "#3764ad"
             }
         },
         {
@@ -28,7 +28,7 @@
                 "title": "Balisalp",
                 "text": "bla bla",
                 "number": "2",
-                "colour": "#3764adff"
+                "colour": "#3764ad"
             }
         },
         {
@@ -43,7 +43,7 @@
                 "title": "Feldmoos",
                 "text": "bla bla",
                 "number": "3",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "title": "Aelpeli",
                 "text": "bla bla",
                 "number": "4",
-                "colour": "#3764adff"
+                "colour": "#3764ad"
             }
         },
         {
@@ -73,7 +73,7 @@
                 "title": "Aelpeli",
                 "text": "bla bla",
                 "number": "4",
-                "colour": "#3764adff"
+                "colour": "#3764ad"
             }
         },
         {
@@ -88,7 +88,7 @@
                 "title": "Bidmi",
                 "text": "bla bla",
                 "number": "5",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -103,7 +103,7 @@
                 "title": "Leiti",
                 "text": "bla bla",
                 "number": "6",
-                "colour": "#3764adff"
+                "colour": "#3764ad"
             }
         },
         {
@@ -118,7 +118,7 @@
                 "title": "Wurf",
                 "text": "bla bla",
                 "number": "7",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -133,7 +133,7 @@
                 "title": "Hochsträss",
                 "text": "bla bla",
                 "number": "8",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -148,7 +148,7 @@
                 "title": "Fulenberg",
                 "text": "bla bla",
                 "number": "9",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -163,7 +163,7 @@
                 "title": "Ringture",
                 "text": "bla bla",
                 "number": "10",
-                "colour": "#483e37ff"
+                "colour": "#483e37"
             }
         },
         {
@@ -178,7 +178,7 @@
                 "title": "Glogghüs",
                 "text": "bla bla",
                 "number": "11",
-                "colour": "#483e37ff"
+                "colour": "#483e37"
             }
         },
         {
@@ -193,7 +193,7 @@
                 "title": "Lubrizen",
                 "text": "bla bla",
                 "number": "12",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -208,7 +208,7 @@
                 "title": "Fleschbielen",
                 "text": "bla bla",
                 "number": "13",
-                "colour": "#3764adfff"
+                "colour": "#3764adf"
             }
         },
         {
@@ -223,7 +223,7 @@
                 "title": "Neuenhag",
                 "text": "bla bla",
                 "number": "14",
-                "colour": "#3764adff"
+                "colour": "#3764ad"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "title": "Tschuggi",
                 "text": "bla bla",
                 "number": "15",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -253,7 +253,7 @@
                 "title": "Tschuggi",
                 "text": "bla bla",
                 "number": "15",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -268,7 +268,7 @@
                 "title": "Skirennzentrum",
                 "text": "bla bla",
                 "number": "16",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -283,7 +283,7 @@
                 "title": "Nordpol",
                 "text": "bla bla",
                 "number": "17",
-                "colour": "#483e37ff"
+                "colour": "#483e37"
             }
         },
         {
@@ -298,7 +298,7 @@
                 "title": "Fis",
                 "text": "bla bla",
                 "number": "18",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -313,7 +313,7 @@
                 "title": "Sunshine",
                 "text": "bla bla",
                 "number": "19",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -328,7 +328,7 @@
                 "title": "Hohfluh",
                 "text": "bla bla",
                 "number": "20",
-                "colour": "#ec2727ff"
+                "colour": "#ec2727"
             }
         },
         {
@@ -343,7 +343,7 @@
                 "title": "Twing",
                 "text": "bla bla",
                 "number": "21",
-                "colour": "#3764adff"
+                "colour": "#3764ad"
             }
         },
         {
@@ -358,7 +358,7 @@
                 "title": "Wasserwendi",
                 "text": "bla bla",
                 "number": "22",
-                "colour": "#3764adff"
+                "colour": "#3764ad"
             }
         },
         {
@@ -373,7 +373,7 @@
                 "title": "Reuti",
                 "text": "bla bla",
                 "number": "23",
-                "colour": "#3764adff"
+                "colour": "#3764ad"
             }
         }
     ]
