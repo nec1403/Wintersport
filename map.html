@@ -22,23 +22,115 @@
 
     <div class='infobox'>
 
-       <div class='infobox-text'>
-           <div id="style-name" class='infobox-heading'>Meiringen</div>
-           <div>Zürii</div>
-       </div>
+         <div class='margin'>
+           <div id='info' class='infobox-heading'>Informationen</div>
+           <div id='title' class='infobox-heading2'></div>
+           <div id='infos'></div>
+        </div>
    </div>
 
     <script>
 
       mapboxgl.accessToken = 'CIA';
+
       var map = new mapboxgl.Map({
         container: 'map', // container id
         center: [8.23688, 46.74957], // starting position [lng, lat]
         zoom: 13, // starting zoom
 
-        style: 'mapbox://styles/henrymooncarto/cjqxscxnx0u0o2smlv6gy1dgt', // stylesheet location
+        style: 'mapbox://styles/henrymooncarto/cjqxs6zyv0u7m2rjxop6cn2ef', // stylesheet location
 
       });
+
+        map.on('load', function () {
+
+        map.addSource('icons', {
+            type: 'geojson',
+            data: 'https://raw.githubusercontent.com/nec1403/Wintersport/master/icons.geojson'
+        });
+            map.addLayer({
+                "id": "points",
+                "type": "symbol",
+                "source": "icons",
+                "layout": {
+                    "icon-image": "{class}"
+                }
+            });
+
+            map.addSource('piste', {
+                type: 'geojson',
+                data: 'https://raw.githubusercontent.com/nec1403/Wintersport/master/pisten.geojson'
+            });
+
+        map.addLayer({
+            "id": "pists",
+            "type": "circle",
+            "source": "piste",
+            "paint": {
+                "circle-radius": 13,
+                "circle-color": [
+                  'match',
+                  ['get', 'colour'],
+                  '#3764ad', '#3764ad',
+                  '#ec2727', '#ec2727',
+                  '#483e37', '#483e37',
+                  /* other */ '#ccc'
+                  ]
+            }
+        });
+        map.addLayer({
+            id: "points-nr",
+            type: "symbol",
+            source: "piste",
+            layout: {
+                "text-field": "{number}",
+                "text-font": ["Lato Black"],
+                "text-size": 12,
+                "text-allow-overlap": false //kann man auch weglassen
+            },
+            "paint": {
+                "text-color": "#FFFFFF"
+            }
+        });
+
+
+            map.on('click', 'points', function (e) {
+            var description = e.features[0].properties.description;
+            var text = e.features[0].properties.text;
+            document.getElementById("title").innerHTML = description;
+            document.getElementById("infos").innerHTML = text;
+            });
+
+            // Change the cursor to a pointer when the mouse is over the places layer.
+            map.on('mouseenter', 'points', function () {
+                map.getCanvas().style.cursor = 'pointer';
+            });
+
+            // Change it back to a pointer when it leaves.
+            map.on('mouseleave', 'points', function () {
+                map.getCanvas().style.cursor = '';
+            });
+
+            map.on('click', 'pists', function (e) {
+            var description = e.features[0].properties.description;
+            var text = e.features[0].properties.text;
+            document.getElementById("title").innerHTML = description;
+            document.getElementById("infos").innerHTML = text;
+            });
+
+            // Change the cursor to a pointer when the mouse is over the places layer.
+            map.on('mouseenter', 'pists', function () {
+                map.getCanvas().style.cursor = 'pointer';
+            });
+
+            // Change it back to a pointer when it leaves.
+            map.on('mouseleave', 'pists', function () {
+                map.getCanvas().style.cursor = '';
+            });
+
+
+
+        });
 
       // Add zoom and rotation controls to the map.
       var nav = new mapboxgl.NavigationControl();
