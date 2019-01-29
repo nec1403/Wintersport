@@ -20,10 +20,10 @@ body
     border-radius: 6px;
     box-shadow: 25px 25px 25px 0 rgba(0,0,0,0.15);
     background: white;
-              /* System sans-serif fonts */
+          
     font-size: 12px;
     line-height: 20px;
-    color: #273d56; /* gray-dark */
+    color: #273d56;
   }
 
   .margin {
