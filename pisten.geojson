@@ -11,7 +11,9 @@
                 "class": "blau1",
                 "description": "Lischen",
                 "title": "Lischen",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "1",
+                "colour": "#3764adff"
             }
         },
         {
@@ -24,7 +26,9 @@
                 "class": "blau2",
                 "description": "Balisalp",
                 "title": "Balisalp",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "2",
+                "colour": "#3764adff"
             }
         },
         {
@@ -37,7 +41,9 @@
                 "class": "rot3",
                 "description": "Feldmoos",
                 "title": "Feldmoos",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "3",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -50,7 +56,9 @@
                 "class": "rot4",
                 "description": "Aelpeli",
                 "title": "Aelpeli",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "4",
+                "colour": "#3764adff"
             }
         },
         {
@@ -63,7 +71,9 @@
                 "class": "rot4",
                 "description": "Aelpeli",
                 "title": "Aelpeli",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "4",
+                "colour": "#3764adff"
             }
         },
         {
@@ -76,7 +86,9 @@
                 "class": "rot5",
                 "description": "Bidmi",
                 "title": "Bidmi",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "5",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -89,7 +101,9 @@
                 "class": "blau6",
                 "description": "Leiti",
                 "title": "Leiti",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "6",
+                "colour": "#3764adff"
             }
         },
         {
@@ -102,7 +116,9 @@
                 "class": "rot7",
                 "description": "Wurf",
                 "title": "Wurf",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "7",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -115,7 +131,9 @@
                 "class": "rot8",
                 "description": "Hochsträss",
                 "title": "Hochsträss",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "8",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -128,7 +146,9 @@
                 "class": "rot9",
                 "description": "Fulenberg",
                 "title": "Fulenberg",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "9",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -141,7 +161,9 @@
                 "class": "schwarz10",
                 "description": "Ringture",
                 "title": "Ringture",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "10",
+                "colour": "#483e37ff"
             }
         },
         {
@@ -154,7 +176,9 @@
                 "class": "schwarz11",
                 "description": "Glogghüs",
                 "title": "Glogghüs",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "11",
+                "colour": "#483e37ff"
             }
         },
         {
@@ -167,7 +191,9 @@
                 "class": "rot12",
                 "description": "Lubrizen",
                 "title": "Lubrizen",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "12",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -180,7 +206,9 @@
                 "class": "blau13",
                 "description": "Fleschbielen",
                 "title": "Fleschbielen",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "13",
+                "colour": "#3764adfff"
             }
         },
         {
@@ -193,7 +221,9 @@
                 "class": "blau14",
                 "description": "Neuenhag",
                 "title": "Neuenhag",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "14",
+                "colour": "#3764adff"
             }
         },
         {
@@ -206,7 +236,9 @@
                 "class": "rot15",
                 "description": "Tschuggi",
                 "title": "Tschuggi",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "15",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -219,7 +251,9 @@
                 "class": "rot15",
                 "description": "Tschuggi",
                 "title": "Tschuggi",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "15",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -232,7 +266,9 @@
                 "class": "rot16",
                 "description": "Skirennzentrum",
                 "title": "Skirennzentrum",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "16",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -245,7 +281,9 @@
                 "class": "schwarz17",
                 "description": "Nordpol",
                 "title": "Nordpol",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "17",
+                "colour": "#483e37ff"
             }
         },
         {
@@ -258,7 +296,9 @@
                 "class": "rot18",
                 "description": "Fis",
                 "title": "Fis",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "18",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -271,7 +311,9 @@
                 "class": "rot19",
                 "description": "Sunshine",
                 "title": "Sunshine",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "19",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -284,7 +326,9 @@
                 "class": "rot20",
                 "description": "Hohfluh",
                 "title": "Hohfluh",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "20",
+                "colour": "#ec2727ff"
             }
         },
         {
@@ -297,7 +341,9 @@
                 "class": "blau21",
                 "description": "Twing",
                 "title": "Twing",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "21",
+                "colour": "#3764adff"
             }
         },
         {
@@ -310,7 +356,9 @@
                 "class": "blau22",
                 "description": "Wasserwendi",
                 "title": "Wasserwendi",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "22",
+                "colour": "#3764adff"
             }
         },
         {
@@ -323,7 +371,9 @@
                 "class": "blau23",
                 "description": "Reuti",
                 "title": "Reuti",
-                "text": "bla bla"
+                "text": "bla bla",
+                "number": "23",
+                "colour": "#3764adff"
             }
         }
     ]
