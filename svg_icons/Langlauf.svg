@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 25 25"
+   width="25"
+   height="25"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Langlauf.svg">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview33"
+     showgrid="false"
+     inkscape:zoom="18.838553"
+     inkscape:cx="9.2680105"
+     inkscape:cy="5.6218397"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="_clipPath_CD2nRlZgAdRk76veGgKnVH4ViiF7SeSO">
+      <rect
+         width="283.465"
+         height="283.465"
+         id="rect7"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_CD2nRlZgAdRk76veGgKnVH4ViiF7SeSO)"
+     id="g9"
+     transform="matrix(0.08819444,0,0,0.08819444,0.04691886,-4.32e-4)">
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="140.73228"
+       cy="141.73228"
+       r="141.73228"
+       id="circle11"
+       style="fill:#fb85d6" />
+    <path
+       d="M 69.375,178.875 114.75,165 l 45,-54"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path13"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#fffeff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" />
+    <path
+       d="m 139.875,133.875 32.25,36 -7.5,39.375"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path15"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#fffeff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" />
+    <path
+       d="m 181.5,92.625 26.625,18.75 29.25,-18"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path17"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#fffeff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" />
+    <path
+       d="M 168,93.75 140.25,91.875 120.375,114.75"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path19"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#fffeff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" />
+    <line
+       x1="177.33299"
+       y1="101.333"
+       x2="146.625"
+       y2="135.75"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line21"
+       style="stroke:#fffeff;stroke-width:30;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="188.625"
+       cy="69"
+       r="13.125"
+       id="circle23"
+       style="fill:#fffeff" />
+    <line
+       x1="118.875"
+       y1="114"
+       x2="54.75"
+       y2="114"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line25"
+       style="stroke:#fffeff;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <line
+       x1="236.625"
+       y1="96.75"
+       x2="182.25"
+       y2="215.25"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line27"
+       style="stroke:#fffeff;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <line
+       x1="18"
+       y1="164.25"
+       x2="114.75"
+       y2="224.625"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line29"
+       style="stroke:#fffeff;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <path
+       d="m 92.25,225.375 q 126.75,0.375 132,0.375 c 5.25,0 9.75,-2.625 10.875,-5.625 q 1.125,-3 4.5,-7.875"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path31"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#fffeff;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3" />
+  </g>
+</svg>

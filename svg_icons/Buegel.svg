@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 25 25"
+   width="25"
+   height="25"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Buegel.svg"
+   inkscape:export-filename="C:\Users\Célina\Dateien\BBZ\4._Block\Programmieren_Web\Wintersportkarte\Symbole\Buegellift2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="9.4192766"
+     inkscape:cx="26.208541"
+     inkscape:cy="0.32682044"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="_clipPath_kNlKr2GWuK6ENLY1iO85HCZNA7O15k6i">
+      <rect
+         width="283.465"
+         height="283.465"
+         id="rect7"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_kNlKr2GWuK6ENLY1iO85HCZNA7O15k6i)"
+     id="g9"
+     transform="translate(0,-258.465)">
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="12.496243"
+       cy="270.94257"
+       id="circle11"
+       style="fill:#91e891"
+       r="12.5" />
+    <path
+       d="M 7.2281869,280.05023 18.1202,277.4485 l 0.485069,-0.35279 0.308681,-0.74966"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path13"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:0.61736113;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <path
+       d="m 11.593812,276.87523 q -0.573264,-1.80798 -0.573264,-2.07256 -2.6017361,-2.91042 -2.8663196,-3.21912 c -0.2645832,-0.30867 -0.1322923,-4.67428 -0.1322923,-5.24755 0,-0.57327 0.4022548,-0.83706 1.6315968,-0.66146 0.6173611,0.0883 1.2347231,0.30867 1.9402791,0.57326 0.705555,0.26458 2.601734,1.19062 3.086805,1.54341 0.48507,0.35277 0.176385,1.23471 -0.881946,0.66146 q -1.058332,-0.57327 -2.998609,-1.49931 l -0.0441,4.85069 1.543401,2.02847 q 0.749654,2.20486 1.014237,3.1309 c 0.264583,0.92604 -1.146529,1.71979 -1.719792,-0.0883 z"
+       id="path15"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="9.4109993"
+       cy="263.80038"
+       id="circle17"
+       style="fill:#ffffff"
+       r="1.3449653" />
+    <line
+       x1="20.461781"
+       y1="261.62262"
+       x2="8.8627415"
+       y2="273.69724"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line19"
+       style="stroke:#ffffff;stroke-width:0.3827371;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <line
+       x1="8.0219364"
+       y1="273.03876"
+       x2="9.5653391"
+       y2="274.58215"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line21"
+       style="stroke:#ffffff;stroke-width:0.70555556;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3" />
+  </g>
+</svg>

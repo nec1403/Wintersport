@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 25 25"
+   width="25"
+   height="25"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Schlepplift.svg"
+   inkscape:export-filename="C:\Users\Célina\Dateien\BBZ\4._Block\Programmieren_Web\Wintersportkarte\Symbole\Schlepplift2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="9.4192768"
+     inkscape:cx="18.413361"
+     inkscape:cy="12.13516"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="_clipPath_n9owZfmAeTPE2VQH7NNyeIsD3qTiBE53">
+      <rect
+         width="283.465"
+         height="283.465"
+         id="rect7"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_n9owZfmAeTPE2VQH7NNyeIsD3qTiBE53)"
+     id="g9"
+     transform="translate(0,-258.465)">
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="12.508571"
+       cy="270.96457"
+       r="12.5"
+       id="circle11"
+       style="fill:#91e891" />
+    <path
+       d="m 7.2405142,280.07221 10.8920138,-2.60174 0.48507,-0.35278 0.30868,-0.74966"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path13"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:0.61736113;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <path
+       d="m 11.606139,276.89721 q -0.573264,-1.80799 -0.573264,-2.07256 -2.6017358,-2.91043 -2.8663192,-3.21912 c -0.2645833,-0.30867 -0.1322923,-4.67429 -0.1322923,-5.24756 0,-0.57326 0.4022548,-0.83705 1.6315971,-0.66146 0.6173614,0.0883 1.2347224,0.30868 1.9402774,0.57327 0.705556,0.26458 2.601736,1.19062 3.086806,1.54341 0.485069,0.35277 0.176388,1.23471 -0.881945,0.66146 q -1.058333,-0.57327 -2.998611,-1.49931 l -0.0441,4.85069 1.543403,2.02846 q 0.749653,2.20487 1.014236,3.13091 c 0.264584,0.92604 -1.146527,1.71979 -1.719791,-0.0883 z"
+       id="path15"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="9.4233265"
+       cy="263.82239"
+       r="1.3449653"
+       id="circle17"
+       style="fill:#ffffff" />
+    <line
+       x1="20.155697"
+       y1="262.52142"
+       x2="4.0732527"
+       y2="277.84692"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line19"
+       style="stroke:#ffffff;stroke-width:0.30406174;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3" />
+  </g>
+</svg>

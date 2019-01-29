@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 25 25"
+   width="25"
+   height="25"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Gondeli.svg"
+   inkscape:export-filename="C:\Users\Célina\Dateien\BBZ\4._Block\Programmieren_Web\Wintersportkarte\Symbole\Gondeli2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="8.0380863"
+     inkscape:cy="12.635373"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="_clipPath_ImxreroiQHhhYJHymAzP8PvkDquzxnP2">
+      <rect
+         width="283.465"
+         height="283.465"
+         id="rect7"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_ImxreroiQHhhYJHymAzP8PvkDquzxnP2)"
+     id="g9"
+     transform="translate(0,-258.46499)">
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="12.49257"
+       cy="270.9653"
+       r="12.5"
+       id="circle11"
+       style="fill:#91e891" />
+    <line
+       x1="2.0451303"
+       y1="267.45312"
+       x2="16.358431"
+       y2="260.16553"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line13"
+       style="stroke:#ffffff;stroke-width:0.32582766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <line
+       x1="13.321925"
+       y1="262.16949"
+       x2="13.321925"
+       y2="269.10748"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line15"
+       style="stroke:#ffffff;stroke-width:0.88194442;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <path
+       d="m 8.2654739,269.04868 8.8782701,0 q 1.352285,2.52827 1.352285,3.64535 c 0,1.11715 -0.293952,4.35098 -0.587992,5.23292 q -0.293952,0.88194 -0.764293,1.82264 l -8.760707,-0.1175 q -0.8819444,-1.17591 -1.1758964,-2.70468 c -0.2939519,-1.52867 -0.5291665,-3.11617 -0.058825,-4.64484 q 0.4704291,-1.52875 1.1171591,-3.23383 z"
+       id="path17"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <rect
+       x="8.7946396"
+       y="271.10651"
+       width="3.3403647"
+       height="4.0344543"
+       id="rect19"
+       style="fill:#91e891" />
+    <rect
+       x="13.509426"
+       y="271.15057"
+       width="3.3403647"
+       height="4.0344543"
+       id="rect21"
+       style="fill:#91e891" />
+  </g>
+</svg>

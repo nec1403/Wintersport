@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 25 25"
+   width="25"
+   height="25"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Wintersportgebiet.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="18.838553"
+     inkscape:cx="-1.5097965"
+     inkscape:cy="6.5115358"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="_clipPath_VU6bZiFFCmh928wmTrSxYQ4RcbZ8wpdb">
+      <rect
+         width="283.465"
+         height="283.465"
+         id="rect7"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_VU6bZiFFCmh928wmTrSxYQ4RcbZ8wpdb)"
+     id="g9"
+     transform="matrix(0.08819444,0,0,0.08819444,0.03317665,0.00620378)">
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="140.73228"
+       cy="141.73228"
+       r="141.73228"
+       id="circle11"
+       style="fill:#fb85d6" />
+    <path
+       d="m 162.523,106.106 -24.46,41.582 39.849,33.979"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path13"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:18;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" />
+    <path
+       d="m 80.061,135.672 36.874,5.779 -22.565,-37.7"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path15"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" />
+    <path
+       d="m 152.635,94.279 -15.961,26.417 -45.68,-9.631 q -3.027,-2.752 -4.127,-7.98 c -1.101,-5.229 -0.276,-9.907 2.201,-12.383 2.477,-2.477 6.604,-5.779 11.558,-5.229 4.953,0.55 15.758,1.423 22.289,2.477 8.531,1.376 15.244,1.953 29.72,6.329 z"
+       id="path17"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="71.392784"
+       cy="85.176643"
+       r="14.722095"
+       id="circle19"
+       style="fill:#ffffff" />
+    <path
+       d="m 52.818,225.839 c 8.439,5.504 9.173,6.971 27.885,0 q 18.712,-6.971 176.482,-64.575"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path21"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" />
+    <line
+       x1="177.83"
+       y1="96.456001"
+       x2="222.959"
+       y2="79.578003"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line23"
+       style="stroke:#ffffff;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3" />
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 25 25"
+   width="25"
+   height="25"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Parkplatz.svg">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="26.641737"
+     inkscape:cx="5.5569495"
+     inkscape:cy="4.7101295"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="_clipPath_a4WHCkSOGJEwN7OW0sCXKnOYVQN116wI">
+      <rect
+         width="283.465"
+         height="283.465"
+         id="rect7"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_a4WHCkSOGJEwN7OW0sCXKnOYVQN116wI)"
+     id="g9"
+     transform="translate(0,-258.465)">
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="12.50857"
+       cy="270.96457"
+       id="circle11"
+       style="fill:#4a86e8"
+       r="12.5" />
+    <g
+       transform="matrix(0.08819444,0,0,0.08819444,4.594681,255.52478)"
+       id="g13">
+      <g
+         transform="translate(0,267.212)"
+         style="font-style:normal;font-weight:700;font-size:250px;font-family:'Open Sans';fill:#ffffff;stroke:none"
+         id="text15">
+        <path
+           d="m 22.949219,-182.25098 78.002931,0 q 34.79004,0 53.34472,15.50293 18.67676,15.38086 18.67676,43.94532 0,28.686519 -18.67676,44.189449 -18.55468,15.380859 -53.34472,15.380859 l -31.005861,0 0,63.232422 -46.99707,0 0,-182.25098 z m 46.99707,34.05762 0,50.903321 26.000977,0 q 13.671874,0 21.118164,-6.591801 7.44629,-6.71386 7.44629,-18.92089 0,-12.20704 -7.44629,-18.79883 -7.44629,-6.5918 -21.118164,-6.5918 l -26.000977,0 z"
+           style="font-style:normal;font-weight:700;font-size:250px;font-family:'Open Sans';fill:#ffffff;stroke:none"
+           id="path4139"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

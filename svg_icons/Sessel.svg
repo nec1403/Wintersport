@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 25 25"
+   width="25"
+   height="25"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Sessel.svg"
+   inkscape:export-filename="C:\Users\Célina\Dateien\BBZ\4._Block\Programmieren_Web\Wintersportkarte\Symbole\Sessel2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="13.320869"
+     inkscape:cx="-2.6120249"
+     inkscape:cy="5.0455123"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="_clipPath_sNSh4GteBJPhA0qrHIaXnnI3rZVAOEQS">
+      <rect
+         width="283.465"
+         height="283.465"
+         id="rect7"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_sNSh4GteBJPhA0qrHIaXnnI3rZVAOEQS)"
+     id="g9"
+     transform="translate(0,-258.465)">
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="12.508571"
+       cy="270.93802"
+       r="12.5"
+       id="circle11"
+       style="fill:#91e891" />
+    <path
+       d="m 12.385161,263.96492 c 0.05883,1.76389 0.29404,1.94027 -1.058334,2.23424 -1.3522851,0.29394 -2.1166662,0.70555 -2.1166662,1.99909 0,1.29346 0.058825,5.87958 0,7.3495 -0.058737,1.46994 0.7055556,2.23423 2.5282702,2.23423 q 0.771701,0 1.43316,0.0367"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path13"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:0.88194442;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3" />
+    <path
+       d="m 3.2431717,266.15566 c 0,0 4.6012814,-1.24439 15.8217533,-4.29493"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path15"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:0.44097221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3"
+       sodipodi:nodetypes="cc" />
+    <circle
+       vector-effect="non-scaling-stroke"
+       cx="11.44445"
+       cy="268.66858"
+       r="1.175926"
+       id="circle17"
+       style="fill:#ffffff" />
+    <path
+       d="m 15.148645,279.69291 0,-3.90993 -3.939381,0"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="path19"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" />
+    <line
+       x1="11.562042"
+       y1="271.99792"
+       x2="11.551018"
+       y2="275.17291"
+       vector-effect="non-scaling-stroke"
+       stroke-miterlimit="3"
+       id="line21"
+       style="stroke:#ffffff;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" />
+  </g>
+</svg>
