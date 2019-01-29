@@ -122,6 +122,23 @@
             map.on('mouseleave', 'points', function () {
                 map.getCanvas().style.cursor = '';
             });
+          
+            map.on('click', 'areas', function (e) {
+            var description = e.features[0].properties.description;
+            var text = e.features[0].properties.text;
+            document.getElementById("title").innerHTML = description;
+            document.getElementById("infos").innerHTML = text;
+            });
+
+            // Change the cursor to a pointer when the mouse is over the places layer.
+            map.on('mouseenter', 'areas', function () {
+                map.getCanvas().style.cursor = 'pointer';
+            });
+
+            // Change it back to a pointer when it leaves.
+            map.on('mouseleave', 'areas', function () {
+                map.getCanvas().style.cursor = '';
+            });
 
             map.on('click', 'pists', function (e) {
             var description = e.features[0].properties.description;
